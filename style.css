@@ -255,13 +255,13 @@ footer .layar-dalam .copyright {
 }
 @media screen and (max-width: 768px) {
   .layar-dalam {
-    width: 90%;
+    width: 100%;
     font-size: 75%;
   }
 }
 @media screen and (max-width: 450px) {
   .layar-dalam {
-    width: 90%;
+    width: 100%;
     font-size: 65%;
   }
 }
